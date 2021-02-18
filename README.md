@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h1r0mu)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **h1r0mu/h1r0mu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
